@@ -9,7 +9,7 @@ z
 z
 z
 z
-
+test lb
 z
 zon, ben, moi, j'ai efface une ligne.lb
 
