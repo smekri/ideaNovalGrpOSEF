@@ -1,15 +1,10 @@
-test salut je test les branche verte
-b
+﻿Autorité sans pouvoir n'est que tigre de papier
+Samy : j'ai changée une ligne
+bon, ben, moi, j'ai effacé une ligne.lb
 
-ouh la la
-c'est complique
-c'est très complique
 c'toi la branche
-z
-z
-z
-z
-test lb
-z
-zon, ben, moi, j'ai efface une ligne.lb
 
+
+
+
+test lb
